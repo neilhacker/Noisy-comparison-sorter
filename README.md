@@ -7,7 +7,7 @@ This solution inspired by Gwern's resorter algorithm (https://www.gwern.net/Reso
 
 ## Implementation
 ### Set up
-You need to have an csv file with all of your options in the left most column, you will also need to change the name of this file to the filename in the code (or visa versa). This will be updated after every run.
+You need to have an csv file with all of your options in the left most column, you will also need to change the name of this file to the filename in the code (or visa versa). This will be updated after every run. Currently it is called book1.csv (https://github.com/neilhacker/comparisonSorter/blob/e3aba632aa0899d373af6836a95b5266297f1458/main.py#L31)
 
 ### Comparing
 When faced with a comparison you can press 1,2,8,0:
