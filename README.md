@@ -31,6 +31,6 @@ After the scores have been calculated a numpy array is made with the items in th
 
 After the first run through in all subsequent runs the program will automatically add comparisons for all the items that have a past score to the comparison list (if we had a>b>c in our list then we will automatically have (a,b) and (b,c) added). 
 
-<li>
+<hr>
 ¹This differs from the buckets Gwern used that had a shape closer to 1/x. If you have a very large corpus his shaping is probably better as it deliminates more at the top end, becuase I was only dealing with around 100 or so entries I dindn't need that much accuracy and as the ratings can be a bit fuzzy this might have lead to over precision. 
 
